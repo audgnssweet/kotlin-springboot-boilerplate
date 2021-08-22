@@ -1,3 +1,1 @@
-# (Spring boot) Boiler plate
-
-for `kotlin`
+`spring boot boilerplate`
